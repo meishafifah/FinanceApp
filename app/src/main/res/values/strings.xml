@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinanceApp</string>
+    <string-array name="boolean_status">
+        <item>Pemasukan</item>
+        <item>Pengeluaran</item>
+    </string-array>
+</resources>
